@@ -1,3 +1,3 @@
-# OS From Scratch
+# TidyOS
 
-Try to create an os from scratch
+My little operating system from scratch.
